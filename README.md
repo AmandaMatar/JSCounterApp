@@ -12,8 +12,7 @@
  <br>
  <br>
 
- Acesse o segundo projeto 	<link rel="stylesheet" href="https://github.com/AmandaMatar/VueCounterApp">
- VueCounterApp para ver os primeiros passos do desenvolvimento com Vue 3.
+ Acesse o segundo projeto<a href=“https://github.com/AmandaMatar/VueCounterApp“>VueCounterApp</a> para ver os primeiros passos do desenvolvimento com Vue 3.
 
 
 > [!IMPORTANT]
