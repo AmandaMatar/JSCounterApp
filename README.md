@@ -12,8 +12,16 @@
  <br>
  <br>
 
+ - Confira o template o projeto JSCounterApp
+
+ ![template](https://drive.google.com/uc?id=1eDEUNjMTJMXJbXRWuJPzQ597vnrHKIVz)
+
+<br>
+<br>
+
  Acesse o segundo projeto [VueCounterApp](https://github.com/AmandaMatar/VueCounterApp) para ver os primeiros passos do desenvolvimento com Vue 3.
 
+ Acesse o terceiro projeto [VueCounterApp2](https://github.com/AmandaMatar/VueCounterApp2) para ver o desenvolvimento usando totalmente o Vue 3.
 
 > [!IMPORTANT]
 > Esse material serve como portifólio de estudos.
