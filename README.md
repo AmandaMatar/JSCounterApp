@@ -14,7 +14,7 @@
 
  - Confira o template o projeto JSCounterApp
 
- ![template](https://drive.google.com/file/d/1eDEUNjMTJMXJbXRWuJPzQ597vnrHKIVz/view?usp=sharing)
+ ![template](jscounterapp.png)
 
 <br>
 <br>
